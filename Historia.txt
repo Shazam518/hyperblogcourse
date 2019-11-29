@@ -7,3 +7,5 @@ Estoy aprendiendo git
 y conocindo sus componentes y comandos.
 
 Ahora es momento de practicar.
+
+no me salen los cambios...
