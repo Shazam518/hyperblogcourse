@@ -3,4 +3,7 @@
 Gustavo tiene 31 años y nació en México,
 Distrito Federal
 
-Mañana nos enfocaremos en su vida laboral
+Estoy aprendiendo git
+y conocindo sus componentes y comandos.
+
+Ahora es momento de practicar.
